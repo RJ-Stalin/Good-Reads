@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Good-Reads/static/css/main.497f8725.chunk.css",
+    "main.js": "/Good-Reads/static/js/main.f0e30a99.chunk.js",
+    "main.js.map": "/Good-Reads/static/js/main.f0e30a99.chunk.js.map",
+    "runtime-main.js": "/Good-Reads/static/js/runtime-main.948b0eed.js",
+    "runtime-main.js.map": "/Good-Reads/static/js/runtime-main.948b0eed.js.map",
+    "static/css/2.7e17ac27.chunk.css": "/Good-Reads/static/css/2.7e17ac27.chunk.css",
+    "static/js/2.3cd4ca4d.chunk.js": "/Good-Reads/static/js/2.3cd4ca4d.chunk.js",
+    "static/js/2.3cd4ca4d.chunk.js.map": "/Good-Reads/static/js/2.3cd4ca4d.chunk.js.map",
+    "index.html": "/Good-Reads/index.html",
+    "static/css/2.7e17ac27.chunk.css.map": "/Good-Reads/static/css/2.7e17ac27.chunk.css.map",
+    "static/css/main.497f8725.chunk.css.map": "/Good-Reads/static/css/main.497f8725.chunk.css.map",
+    "static/js/2.3cd4ca4d.chunk.js.LICENSE.txt": "/Good-Reads/static/js/2.3cd4ca4d.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Good-Reads/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948b0eed.js",
+    "static/css/2.7e17ac27.chunk.css",
+    "static/js/2.3cd4ca4d.chunk.js",
+    "static/css/main.497f8725.chunk.css",
+    "static/js/main.f0e30a99.chunk.js"
+  ]
+}
